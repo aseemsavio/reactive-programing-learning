@@ -9,7 +9,7 @@ import reactor.test.StepVerifier;
  * @author Aseem Savio
  * I'm just playing around with Flux and Mono
  */
-public class FluxAndMonoPlaygroundTest {
+public class FluxAndMonoPlayground {
     /**
      * Only way of accessing a Flux is by subscribing to it.
      * When you subscribe to a Flux. it starts emitting the values it holds.

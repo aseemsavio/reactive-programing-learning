@@ -13,7 +13,7 @@ import java.util.function.Supplier;
  * @author Aseem Savio
  * I'm playing around with the factory methods :p
  */
-public class FluxAndMonoFactoryTest {
+public class FluxAndMonoFactoryMethods {
 
     List<String> names = Arrays.asList("Aseem", "Savio", "Antigravity");
 
